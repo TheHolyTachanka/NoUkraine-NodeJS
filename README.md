@@ -1,5 +1,5 @@
-# norussian.tk-NodeJS
-### Port of https://norussian.tk to NodeJS
+# NoUkraine-NodeJS
+### Port of https://github.com/TheHolyTachanka/NoUkraine to NodeJS
 ## Installation
 - Run `git clone https://github.com/TheHolyTachanka/NoUkraine-NodeJS.git` to clone the repository 
 - Enter the cloned directory
